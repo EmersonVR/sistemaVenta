@@ -1,0 +1,2 @@
+# sistemaVenta
+proyecto tienda 
