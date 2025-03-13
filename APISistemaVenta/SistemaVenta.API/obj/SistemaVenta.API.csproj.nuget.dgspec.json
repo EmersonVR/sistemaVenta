@@ -1,0 +1,416 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj": {}
+  },
+  "projects": {
+    "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj",
+        "projectName": "SistemaVenta.API",
+        "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj",
+        "packagesPath": "C:\\Users\\JCHAMBI\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JCHAMBI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+                "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+              },
+              "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+              },
+              "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+                "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "projectName": "SistemaVenta.BLL",
+        "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "packagesPath": "C:\\Users\\JCHAMBI\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JCHAMBI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              },
+              "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+              },
+              "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              },
+              "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+                "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "projectName": "SistemaVenta.DAL",
+        "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "packagesPath": "C:\\Users\\JCHAMBI\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JCHAMBI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectName": "SistemaVenta.DTO",
+        "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "packagesPath": "C:\\Users\\JCHAMBI\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JCHAMBI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "projectName": "SistemaVenta.IOC",
+        "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "packagesPath": "C:\\Users\\JCHAMBI\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JCHAMBI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+                "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+              },
+              "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              },
+              "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+                "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectName": "SistemaVenta.Model",
+        "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "packagesPath": "C:\\Users\\JCHAMBI\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JCHAMBI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "projectName": "SistemaVenta.Utility",
+        "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "packagesPath": "C:\\Users\\JCHAMBI\\.nuget\\packages\\",
+        "outputPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JCHAMBI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+              },
+              "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "E:\\WorkSpaceAD\\YOUTUBE\\091_CURSO SISTEMA VENTA ANGULAR\\Subir\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
